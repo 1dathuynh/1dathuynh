@@ -1,0 +1,14 @@
+{
+  "name": "readme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "simple.readme.settings.github": "1dathuynh",
+  "simple.readme.settings.name": "Huynh Dat",
+  "simple.readme.settings.lang": "en"
+}
