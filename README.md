@@ -1,6 +1,6 @@
 <h2 align="start">Hi there 👋, I'm Huynh Dat</h2>
 
-<h3 align="start">🚀 Front-end Developer | React Enthusiast</h3>
+<h3 align="start">🚀 Front-end Developer</h3>
 
 <p align="start">
 I’m a passionate Frontend Developer with hands-on experience in <b>ReactJS</b> and modern web technologies.  
@@ -12,22 +12,25 @@ Always eager to learn and grow in a collaborative environment.
 ---
 
 <div align="center">
-  <img width="48%" height="200" 
-       src="https://github-readme-stats.vercel.app/api?username=1dathuynh&theme=synthwave&show_icons=true" 
-       alt="GitHub Stats" />
-
-  <img width="48%" height="200" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=1dathuynh&layout=compact&theme=synthwave" 
-       alt="Top Languages" />
+  <a href="https://github.com/1dathuynh" title="Huynh Dat">
+    <img width="48%" 
+         src="https://github-readme-stats.vercel.app/api?username=1dathuynh&theme=synthwave&show_icons=true" 
+         alt="GitHub Stats" />
+  </a>
+  
+  <a href="https://github.com/1dathuynh" title="Huynh Dat">
+    <img width="48%" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=1dathuynh&layout=compact&theme=synthwave" 
+         alt="Top Languages" />
+  </a>
 </div>
-
 
 ---
 
-<h3 align="start">Tech Stack</h3>
+<h3 align="start">🛠️ Tech Stack</h3>
 
 <p align="start">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,ts,tailwind,bootstrap,antd,git,github,vite, sass, nextjs, nodejs, nestjs, mongodb" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,ts,tailwind,bootstrap,antd,git,github,vite,sass,nextjs,nodejs,nestjs,mongodb" />
 </p>
 
 ---
