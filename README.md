@@ -30,7 +30,7 @@ Always eager to learn and grow in a collaborative environment.
 <h3 align="start">🛠️ Tech Stack</h3>
 
 <p align="start">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,ts,tailwind,bootstrap,ant,git,github,vite,sass,nextjs,nodejs,nestjs,mongodb" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,ts,tailwind,bootstrap,git,github,vite,sass,nextjs,nodejs,nestjs,mongodb" />
 </p>
 
 ---
