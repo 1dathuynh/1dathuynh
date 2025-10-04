@@ -3,10 +3,7 @@
 <h3 align="start">🚀 Front-end Developer</h3>
 
 <p align="start">
-I’m a passionate Frontend Developer with hands-on experience in <b>ReactJS</b> and modern web technologies.  
-I’ve built user-friendly interfaces for real-world projects like a <b>job-seeking platform</b> and a <b>classroom management system</b>.  
-I focus on <b>clean code</b>, <b>responsive design</b>, and <b>smooth user experiences</b>.  
-Always eager to learn and grow in a collaborative environment.
+I’m a passionate Frontend Developer with hands-on experience in ReactJS and modern web technologies. I’ve built user-friendly interfaces for real-world projects like an online quiz platform and an e-commerce website. I focus on clean code, responsive design, and smooth user experiences, and I’m always eager to learn and grow in a collaborative environment.
 </p>
 
 ---
