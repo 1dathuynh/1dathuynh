@@ -35,10 +35,10 @@ I’m a passionate Frontend Developer with hands-on experience in ReactJS and mo
 <h3 align="start">📫 Connect with Me</h3>
 
 <p align="start">
-  <a href="https://www.linkedin.com/in/huynhdat" target="_blank">
+  <a href="https://www.linkedin.com/in/1dathuynh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:dathuynh1221212@gmail.com">
+  <a href="dathuynh1221212@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
